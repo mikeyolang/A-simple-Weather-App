@@ -1,4 +1,4 @@
-# Weather App Project - Learn HTML, CSS & JavaScript
+# Weather App Project
 
 This project guides you through building a weather application that fetches weather data from the OpenWeatherMap API and displays it on a user-friendly interface. You'll gain hands-on experience with HTML, CSS, and JavaScript, while incorporating an external API to enhance your web development skills.
 
@@ -50,7 +50,4 @@ The project is divided into the following sections:
 - [CSS Tutorial](https://www.w3schools.com/css/)
 - [JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-
 This project provides a solid foundation for building interactive web applications. By successfully completing it, you'll gain valuable experience in web development and API integration, making you a step closer to creating more complex and exciting web projects!
-
-
